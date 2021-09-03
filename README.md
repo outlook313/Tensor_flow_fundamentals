@@ -6,5 +6,6 @@ Tensorflow is a symbolic math library based on dataflow and differentiable progr
 
 TensorFlow was developed by the Google Brain team for internal Google use. It was released under the Apache License 2.0 in 2015.
 
-![tensorflow](https://user-images.githubusercontent.com/89722385/132039066-0846985e-1027-41c2-be9a-4c03f0d5134d.png)
+![tensorflow](https://user-images.githubusercontent.com/89722385/132039363-f3d07621-2290-4160-885f-213ec7ba1863.png)
+
 
